@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.full{
+    border:1px solid black;
+    width: 700px;
+    height: 500px;
+    padding: 10px;
+}
+form{
+    background-color: white;
+    padding: 10px;
+}
+form .input{
+    margin: 5px;
+    padding: 5px;
+    width: 90%;
+}
+.ful{
+    background-color: rgb(224, 214, 214);
+    padding: 10px;
+}
+button{
+    width: 90%;
+    font-size: 16px;
+    padding: 6px;
+    background-color: green;
+    color: white;
+    margin: 15px;
+}
